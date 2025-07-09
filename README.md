@@ -5,8 +5,8 @@
 
 
 ### 📽️Проекти, софт
-[Image translator](tg://resolve?domain=imagetranslatorxidlysbot) може не працювати, мені впадлу слідкувати за цим
+[Image translator](https://t.me/imagetranslatorxidlysbot) може не працювати, мені впадлу слідкувати за цим
 
 ### 📫 Зв'язок зі мною
-[Telegram account](tg://resolve?domain=xidlys)
-[Telegram channel](tg://resolve?domain=Banana_Universe)
+[Telegram account](https://t.me/xidlys)
+[Telegram channel](https://t.me/Banana_Universe)
